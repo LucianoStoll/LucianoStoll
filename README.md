@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=200&section=header&text=Luciano%20Stoll&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Sistemas%20de%20Informacao%20%7C%20Desenvolvimento&descSize=16&descAlignY=60" alt="Luciano Stoll" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=200&section=header&text=Luciano%20Stoll&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Sistemas%20de%20Informacao%20%7C%20&descSize=16&descAlignY=60" alt="Luciano Stoll" />
 </p>
 
 
