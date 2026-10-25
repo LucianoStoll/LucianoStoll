@@ -1,37 +1,17 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=200&section=header&text=Luciano%20Stoll&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=Tecnologia%20para%20simplificar%20o%20dia%20a%20dia&descSize=16&descAlignY=60" alt="Luciano Stoll" />
-</p>
-
-## Um pouco sobre mim
-
-Sou estudante de **Sistemas de Informação** e trabalho na área financeira.
-Gosto de encontrar formas de facilitar o dia a dia com código — seja criando
-um aplicativo, automatizando uma tarefa ou organizando dados.
-
-Aprendo construindo projetos e melhorando um detalhe de cada vez.
-
-## O que estou construindo
-
-📱 **Somia** — meu projeto de aplicativo para organização financeira.  
-⚙️ **Automações** — ferramentas para simplificar tarefas e conferir informações.  
-📚 **Projetos e estudos** — colocando em prática o que aprendo na faculdade.
-
-## Tecnologias que estudo e utilizo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,java,sqlite,git&theme=dark" alt="Python, Dart, Flutter, Java, SQLite e Git" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:8B5CF6&height=180&section=header&text=Luciano%20Stoll&fontSize=44&fontColor=FFFFFF&fontAlignY=40" alt="Luciano Stoll" />
 </p>
 
 <p align="center">
-  <sub>Fora do código: música, jogos, leitura e academia.</sub>
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,java,sqlite,git,github,vscode&theme=dark&perline=8" alt="Tecnologias e ferramentas" />
 </p>
 
----
+<br>
 
 <p align="center">
-  <em>Ideias simples também podem virar boas soluções.</em>
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=LucianoStoll&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=38BDF8&area=true&area_color=2563EB&hide_border=true&hide_title=true" alt="Atividade no GitHub" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=100&section=footer" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:8B5CF6&height=90&section=footer" alt="" />
 </p>
